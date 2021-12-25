@@ -1,0 +1,23 @@
+*{
+    background-color: #a04fa0;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+input{
+    background-color: #fff;
+    font-family: 'Mulish', sans-serif;
+    border-radius: 5px;
+    width: 250px;
+    padding: -1rem 1rem;
+    border:#000;
+    cursor: pointer;
+}
+
+body{
+    text-align: center;
+}
